@@ -1,0 +1,21 @@
+User-agent: *
+
+Sitemap: https://www.personalcapital.com/sitemap.xml
+Sitemap: https://www.personalcapital.com/blog/sitemap_index.xml
+
+Disallow: /land/*
+Disallow: /landing/*
+Disallow: /assets/*
+Disallow: /referral
+Disallow: /referraloffer
+Disallow: /get-started
+Disallow: /sign-up/cash
+Disallow: /sign-up/invest
+Disallow: /sign-up/manage-your-money
+Disallow: /sign-up/portfolio-tracking
+Disallow: /sign-up/simple2
+Disallow: /sign-up/quicken
+Disallow: /page/nerdwallet-offer
+Disallow: /premium*
+Disallow: /index/styleguide
+Disallow: /home
